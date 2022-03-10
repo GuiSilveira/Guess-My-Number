@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-This a project made in the The Complete JavaScript Course 2021 - From Zero to Expert! It's a game of guessing so the user can try to guess the secret number!
+This a project made in the The Complete JavaScript Course 2022 - From Zero to Expert! It's a game of guessing so the user can try to guess the secret number!
 
 ## Table of contents
 
